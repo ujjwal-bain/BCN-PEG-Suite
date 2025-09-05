@@ -43,7 +43,7 @@ export default function HealthcarePage() {
 
       {/* Executive Summary */}
       <ExecSummary
-        src="/public/Decks/Healthcare/execSumm.png"
+        src="/Decks/Healthcare/execSumm.png"
         alt="Healthcare Executive Summary"
       />
 
@@ -71,14 +71,14 @@ export default function HealthcarePage() {
               <CardContent className="flex-grow overflow-hidden">
                 <div className="relative w-full h-0 pb-[125%] md:pb-[75%]">
                   <iframe
-                    src="/public/Decks/Healthcare/Sample DD Deck.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                    src="/Decks/Healthcare/Sample DD Deck.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                     className="absolute inset-0 w-full h-full rounded-md border"
                   />
                 </div>
               </CardContent>
               <CardFooter className="mt-auto border-t pt-4">
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/Sample DD Deck.pdf" target="_blank" rel="noopener noreferrer">
+                  <Link href="/Decks/Healthcare/Sample DD Deck.pdf" target="_blank" rel="noopener noreferrer">
                     Open deck <ExternalLink className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -96,14 +96,14 @@ export default function HealthcarePage() {
               <CardContent className="flex-grow overflow-hidden">
                 <div className="relative w-full h-0 pb-[125%] md:pb-[75%]">
                   <iframe
-                    src="/public/Decks/Healthcare/Sample ODA.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                    src="/Decks/Healthcare/Sample ODA.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                     className="absolute inset-0 w-full h-full rounded-md border"
                   />
                 </div>
               </CardContent>
               <CardFooter className="mt-auto border-t pt-4">
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/Sample ODA.pdf" target="_blank" rel="noopener noreferrer">
+                  <Link href="/Decks/Healthcare/Sample ODA.pdf" target="_blank" rel="noopener noreferrer">
                     Open deck <ExternalLink className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -121,14 +121,14 @@ export default function HealthcarePage() {
               <CardContent className="flex-grow overflow-hidden">
                 <div className="relative w-full h-0 pb-[125%] md:pb-[75%]">
                   <iframe
-                    src="/public/Decks/Healthcare/Hospital Ops DD diagnostic.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                    src="/Decks/Healthcare/Hospital Ops DD diagnostic.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                     className="absolute inset-0 w-full h-full rounded-md border"
                   />
                 </div>
               </CardContent>
               <CardFooter className="mt-auto border-t pt-4">
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/Hospital Ops DD diagnostic.pdf" target="_blank" rel="noopener noreferrer">
+                  <Link href="/Decks/Healthcare/Hospital Ops DD diagnostic.pdf" target="_blank" rel="noopener noreferrer">
                     Open deck <ExternalLink className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -195,14 +195,14 @@ export default function HealthcarePage() {
                   Healthcare diligence across the value chain - click here to check out offerings specific to Healthcare Providers, Suppliers, and Payers
                 </p>
                 <div className="flex items-center gap-4">
-                  <img src="/public/Decks/Healthcare/IQVIA.png" alt="Logo 1" className="h-4 object-contain" />
-                  <img src="/public/Decks/Healthcare/Clarivate.png" alt="Logo 2" className="h-8 object-contain" />
-                  <img src="/public/Decks/Healthcare/GlobalData.png" alt="Logo 3" className="h-5 object-contain" />
+                  <img src="/Decks/Healthcare/IQVIA.png" alt="Logo 1" className="h-4 object-contain" />
+                  <img src="/Decks/Healthcare/Clarivate.png" alt="Logo 2" className="h-8 object-contain" />
+                  <img src="/Decks/Healthcare/GlobalData.png" alt="Logo 3" className="h-5 object-contain" />
                 </div>
               </CardContent>
               <CardFooter>
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/sectors/healthcare/due-diligence">
+                  <Link href="/Decks/Healthcare/sectors/healthcare/due-diligence">
                     Learn More <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -223,14 +223,14 @@ export default function HealthcarePage() {
                   Quick Diagnostic covering investment considerations, business/market overview, and competitive landscape
                 </p>
                 <div className="flex items-center gap-4">
-                  <img src="/public/Decks/Healthcare/IQVIA.png" alt="Logo 1" className="h-4 object-contain" />
-                  <img src="/public/Decks/Healthcare/Clarivate.png" alt="Logo 2" className="h-8 object-contain" />
-                  <img src="/public/Decks/Healthcare/GlobalData.png" alt="Logo 3" className="h-5 object-contain" />
+                  <img src="/Decks/Healthcare/IQVIA.png" alt="Logo 1" className="h-4 object-contain" />
+                  <img src="/Decks/Healthcare/Clarivate.png" alt="Logo 2" className="h-8 object-contain" />
+                  <img src="/Decks/Healthcare/GlobalData.png" alt="Logo 3" className="h-5 object-contain" />
                 </div>
               </CardContent>
               <CardFooter>
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/sectors/healthcare/due-diligence">
+                  <Link href="/Decks/Healthcare/sectors/healthcare/due-diligence">
                     Learn More <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -251,7 +251,7 @@ export default function HealthcarePage() {
               </CardContent>
               <CardFooter>
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/sectors/financial-services/investment-strategy">
+                  <Link href="/Decks/Healthcare/sectors/financial-services/investment-strategy">
                     Learn More <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -426,14 +426,14 @@ export default function HealthcarePage() {
               <CardContent className="flex-grow overflow-hidden">
                 <div className="relative w-full h-0 pb-[125%] md:pb-[75%]">
                   <iframe
-                    src="/public/Decks/Healthcare/Healthcare 1_Sample Output_ODA 1.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                    src="/Decks/Healthcare/Healthcare 1_Sample Output_ODA 1.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                     className="w-full h-[350px] rounded-md border"
                   />
                 </div>
               </CardContent>
               <CardFooter className="mt-auto border-t pt-4">
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/Healthcare 1_Sample Output_ODA 1.pdf" target="_blank" rel="noopener noreferrer">
+                  <Link href="/Decks/Healthcare/Healthcare 1_Sample Output_ODA 1.pdf" target="_blank" rel="noopener noreferrer">
                     Open deck <ExternalLink className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -451,14 +451,14 @@ export default function HealthcarePage() {
               <CardContent className="flex-grow overflow-hidden">
                 <div className="relative w-full h-0 pb-[125%] md:pb-[75%]">
                   <iframe
-                    src="/public/Decks/Healthcare/Healthcare 2_Sample Output_ODA 2.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                    src="/Decks/Healthcare/Healthcare 2_Sample Output_ODA 2.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                     className="absolute inset-0 w-full h-full rounded-md border"
                   />
                 </div>
               </CardContent>
               <CardFooter className="mt-auto border-t pt-4">
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/Healthcare 2_Sample Output_ODA 2.pdf" target="_blank" rel="noopener noreferrer">
+                  <Link href="/Decks/Healthcare/Healthcare 2_Sample Output_ODA 2.pdf" target="_blank" rel="noopener noreferrer">
                     Open deck <ExternalLink className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -476,14 +476,14 @@ export default function HealthcarePage() {
               <CardContent className="flex-grow overflow-hidden">
                 <div className="relative w-full h-0 pb-[125%] md:pb-[75%]">
                   <iframe
-                    src="/public/Decks/Healthcare/Healthcare 3_Sample Output_Initial Perspectives.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                    src="/Decks/Healthcare/Healthcare 3_Sample Output_Initial Perspectives.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                     className="w-full h-[350px] rounded-md border"
                   />
                 </div>
               </CardContent>
               <CardFooter className="mt-auto border-t pt-4">
                 <Button asChild className="w-full">
-                  <Link href="/public/Decks/Healthcare/Healthcare 3_Sample Output_Initial Perspectives.pdf" target="_blank" rel="noopener noreferrer">
+                  <Link href="/Decks/Healthcare/Healthcare 3_Sample Output_Initial Perspectives.pdf" target="_blank" rel="noopener noreferrer">
                     Open deck <ExternalLink className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
