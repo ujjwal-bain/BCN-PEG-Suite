@@ -48,7 +48,7 @@ export default function financialServicesPage() {
 
       {/* Executive Summary */}
       <ExecSummary
-        src="/Decks/Financial Services/ExecSummary.png"
+        src="/Decks/Financial Services/execSummary.PNG"
         alt="FS Executive Summary"
       />
 

@@ -42,7 +42,7 @@ export const FSofferings: FSoffering[] = [
         learnMoreUrl: "/Decks/Workforce/BCN PEG Workforce analytics product deck 2025.pdf",
         tools: [
             { id: "aura", name: "Aura", logoSrc: "/Icons/Workforce/aura.png" },
-            { id: "linkedin", name: "Linkedin", logoSrc: "/Icons/Workforce/linkedin.png" },
+            { id: "linkedin", name: "Linkedin", logoSrc: "/Icons/Workforce/linkedIn.png" },
             { id: "glassdoor", name: "Glassdoor", logoSrc: "/Icons/Workforce/glassdoor.png" },
             { id: "comaparably", name: "comaparably", logoSrc: "/Icons/Workforce/comparably.png" },
             { id: "indeed", name: "indeed", logoSrc: "/Icons/Workforce/indeed.png" },
@@ -59,7 +59,7 @@ export const FSofferings: FSoffering[] = [
         tools: [
             { id: "similarweb", name: "similarweb", logoSrc: "/Icons/Digital/similarweb.png" },
             { id: "semrush", name: "semrush", logoSrc: "/Icons/Digital/semrush.png" },
-            { id: "netbasequid", name: "netbasequid", logoSrc: "/Icons/Digital/netbasequid.jpg" },
+            { id: "netbasequid", name: "netbasequid", logoSrc: "/Icons/Digital/netbaseQuid.jpg" },
             { id: "sensortower", name: "sensortower", logoSrc: "/Icons/Digital/sensortower.png" },
             { id: "spyfu", name: "spyfu", logoSrc: "/Icons/Digital/spyfu.jpg" },
             { id: "fanpagekarma", name: "fanpagekarma", logoSrc: "/Icons/Digital/fanpagekarma.jpg" },
@@ -98,7 +98,7 @@ export const FSofferings: FSoffering[] = [
         tools: [
             { id: "preqin", name: "Preqin", logoSrc: "/Icons/Financial Services/preqin.png" },
             { id: "helixFind", name: "Helix Find", logoSrc: "/Icons/Financial Services/helixFind.png" },
-            { id: "pitchbook", name: "Pitchbook", logoSrc: "/Icons/Financial Services/pitchbook.png" },
+            { id: "pitchbook", name: "Pitchbook", logoSrc: "/Icons/Financial Services/pitchBook.png" },
             { id: "crunchbase", name: "Crunchbase", logoSrc: "/Icons/Financial Services/crunchbase.png" },
             { id: "tracxn", name: "Tracxn", logoSrc: "/Icons/Financial Services/tracxn.png" },
             { id: "capterra", name: "Capterra", logoSrc: "/Icons/Financial Services/capterra.png" },
