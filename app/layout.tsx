@@ -1,9 +1,9 @@
 import type React from "react"
 import "@/app/globals.css"
-import { Inter } from "next/font/google"
+import { Raleway } from "next/font/google"
 import type { Metadata } from "next"
 
-const inter = Inter({ subsets: ["latin"] })
+const inter = Raleway({ subsets: ["latin"] })
 
 // Update the title and description
 export const metadata: Metadata = {

@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="grid gap-8 lg:grid-cols-4 md:grid-cols-4">
           <div className="space-y-4">
             <Link href="/" className="flex items-center gap-2 font-bold text-xl">
-              <img src="/Icons/Bain/bain-icon.png" alt="Bain-logo" className="h-6 w-6 text-primary" />
+              <img src="/Icons/Bain/Bain-icon.png" alt="Bain-logo" className="h-6 w-6 text-primary" />
               <span>BCN PEG Suite</span>
             </Link>
             <p className="text-sm text-muted-foreground">

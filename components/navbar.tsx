@@ -53,7 +53,7 @@ export default function Navbar() {
       <div className="container flex h-16 items-center justify-between px-4 lg:px-6">
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center gap-2 font-bold text-xl md:text-xl whitespace-nowrap">
-            <img src="/Icons/Bain/bain-icon.png" alt="Bain-logo" className="h-6 w-6 text-primary" />
+            <img src="/Icons/Bain/Bain-icon.png" alt="Bain-logo" className="h-6 w-6 text-primary" />
             <span>BCN PEG Suite</span>
           </Link>
         </div>
