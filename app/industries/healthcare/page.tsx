@@ -96,14 +96,14 @@ export default function HealthcarePage() {
               <CardContent className="flex-grow overflow-hidden">
                 <div className="relative w-full h-0 pb-[125%] md:pb-[75%]">
                   <iframe
-                    src="/Decks/Healthcare/Sample ODA.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                    src="/Decks/Healthcare/Sample ODA - Copy.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                     className="absolute inset-0 w-full h-full rounded-md border"
                   />
                 </div>
               </CardContent>
               <CardFooter className="mt-auto border-t pt-4">
                 <Button asChild className="w-full">
-                  <Link href="/Decks/Healthcare/Sample ODA.pdf" target="_blank" rel="noopener noreferrer">
+                  <Link href="/Decks/Healthcare/Sample ODA - Copy.pdf" target="_blank" rel="noopener noreferrer">
                     Open deck <ExternalLink className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
